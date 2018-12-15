@@ -28,3 +28,9 @@ ul {
     color: white;
     list-style-position: inside;
 }
+
+li {
+    float: left;
+    width: 33%;  
+    text-align:center;
+}
