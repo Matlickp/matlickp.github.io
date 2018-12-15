@@ -7,30 +7,12 @@ html {
     -o-background-size: cover;
 }
 
-h1 {
-    text-align: center;
-    font-size: 30pt;
-    color: white;
-    text-decoration: underline;
-}
-
-h2 {
-    text-align: center;
-    color: white;
-    font-size: 30pt;
-}
-
-p { 
-    color: white;
-}
-
-ul {
-    color: white;
-    list-style-position: inside;
-}
-
-li {
-    float: left;
-    width: 33%;  
-    text-align:center;
+.jumbotron {
+    color: aliceblue;
+    background-color: transparent;   
+    background: url(background.jpg) no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; 
 }
